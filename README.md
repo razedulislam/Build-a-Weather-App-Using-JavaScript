@@ -1,6 +1,8 @@
 # Build-a-Weather-App-Using-JavaScript
 How to Build a Weather App Using JavaScript for Complete Beginners
 
+Building a Weather app with JavaScript is an excellent project for beginners. It helps to understand the core basics of the DOM and teaches how to use fetch API, to call and get data from a third-party service.
+
 Prerequisites for this tutorial:
 1.Basic HTML
 2. Basic CSS (including CSS Flexbox)
